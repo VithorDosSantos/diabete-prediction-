@@ -42,3 +42,8 @@ desktop.ini
 # Ignorar arquivos temporários
 *.tmp
 *.bak
+
+# Ignorar arquivos auxiliares (apenas para uso local)
+GUIA_GITHUB.md
+CHECKLIST_ENTREGA.md
+validar_projeto.py
