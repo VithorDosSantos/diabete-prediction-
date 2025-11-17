@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "Se você usar este projeto, por favor cite-o como abaixo."
+type: software
+title: "Análise Preditiva de Diabetes"
+version: 1.0.0
+date-released: 2025-11-17
+authors:
+  - family-names: "Santa Rosa"
+    given-names: "Vithor Dos Santos"
+  - family-names: "Soares"
+    given-names: "João Felipe Da Rocha"
+abstract: "Projeto de modelagem estatística para predição de diabetes usando técnicas de machine learning, incluindo análise exploratória, tratamento de outliers e otimização de modelos."
+keywords:
+  - machine learning
+  - diabetes prediction
+  - statistical modeling
+  - logistic regression
+  - naive bayes
+  - data science
+license: MIT
+repository-code: "https://github.com/seu-usuario/diabetes-prediction"
+
+references:
+  - type: dataset
+    title: "Pima Indians Diabetes Database"
+    authors:
+      - family-names: "Smith"
+        given-names: "J.W."
+      - family-names: "Everhart"
+        given-names: "J.E."
+      - family-names: "Dickson"
+        given-names: "W.C."
+      - family-names: "Knowler"
+        given-names: "W.C."
+      - family-names: "Johannes"
+        given-names: "R.S."
+    year: 1988
+    conference:
+      name: "Symposium on Computer Applications and Medical Care"
+    pages: "261-265"
+    publisher:
+      name: "IEEE Computer Society Press"
+    url: "https://www.kaggle.com/datasets/mathchi/diabetes-data-set"
+    license: "ODbL-1.0"

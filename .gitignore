@@ -1,0 +1,44 @@
+# Ignorar ambiente virtual
+venv/
+env/
+ENV/
+.venv
+
+# Ignorar arquivos do Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Ignorar arquivos Python compilados
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Ignorar arquivos de distribuição
+dist/
+build/
+*.egg-info/
+
+# Ignorar arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignorar arquivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Ignorar modelos salvos (muito grandes para Git)
+# Descomentar se não quiser versionar os modelos
+# *.pkl
+# dados_tratados.csv
+
+# Ignorar logs
+*.log
+
+# Ignorar arquivos temporários
+*.tmp
+*.bak
