@@ -161,7 +161,7 @@ No Jupyter, clique em `Cell > Run All` para executar toda a análise.
 - João Felipe Da Rocha Soares
 
 **Disciplina:** Modelagem Estatística  
-**Instituição:** [Nome da Universidade]  
+**Instituição:** Cesupa  
 **Data:** Novembro 2025
 
 ## 📄 Licença
