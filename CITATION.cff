@@ -22,7 +22,7 @@ repository-code: "https://github.com/seu-usuario/diabetes-prediction"
 
 references:
   - type: dataset
-    title: "Pima Indians Diabetes Database"
+    title: "Diabetes Data Set"
     authors:
       - family-names: "Smith"
         given-names: "J.W."
@@ -40,5 +40,5 @@ references:
     pages: "261-265"
     publisher:
       name: "IEEE Computer Society Press"
-    url: "https://www.kaggle.com/datasets/mathchi/diabetes-data-set"
+    url: "https://www.kaggle.com/datasets/mathchi/diabetes-data-set/data"
     license: "ODbL-1.0"

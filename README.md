@@ -31,8 +31,8 @@ Este projeto realiza uma análise completa de dados médicos para prever a ocorr
 
 ## 📊 Dataset
 
-**Nome:** Pima Indians Diabetes Database  
-**Fonte:** [Kaggle - Diabetes Data Set](https://www.kaggle.com/datasets/mathchi/diabetes-data-set)  
+**Nome:** Diabetes Data Set  
+**Fonte:** [Kaggle - Diabetes Data Set](https://www.kaggle.com/datasets/mathchi/diabetes-data-set/data)  
 **Licença:** Open Database License (ODbL)  
 **Tamanho:** 768 amostras, 9 variáveis (8 features + 1 target)
 
