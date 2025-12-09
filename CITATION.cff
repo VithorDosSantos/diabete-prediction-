@@ -1,6 +1,6 @@
 cff-version: 1.2.0
-message: "Se você usar este projeto, por favor cite-o como abaixo."
-type: software
+message: 
+type: 'estatística'
 title: "Análise Preditiva de Diabetes"
 version: 1.0.0
 date-released: 2025-11-17
@@ -18,7 +18,7 @@ keywords:
   - naive bayes
   - data science
 license: MIT
-repository-code: "https://github.com/seu-usuario/diabetes-prediction"
+repository-code: "https://github.com/VithorDosSantos/diabete-prediction-"
 
 references:
   - type: dataset
